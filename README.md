@@ -37,7 +37,7 @@ Das Programm benötigt die folgenden externen Bibliotheken. Installieren Sie die
 
 ```
 [Wavelog]
-url = [https://ihre.wavelog.de/](https://ihre.wavelog.de/)
+url = https://ihre.wavelog.de/
 token = IHR_WAWELOG_API_TOKEN
 
 [DXCC]
